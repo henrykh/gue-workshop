@@ -9,3 +9,5 @@ Head
 Git Branch <new branch name>
   -Adds a new branch, doesn't automatically checkout that new branch
   -Git branch without argument lists all branches, asterisk indicates active branch
+
+Use git push -u origin master to push changes to the repository
