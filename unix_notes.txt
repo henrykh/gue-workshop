@@ -1,0 +1,530 @@
+    1  python
+    2  python
+    3  sudo killall coreaudiod
+    4  sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`
+    5  python
+    6  python
+    7  cd desktop
+    8  python teachers.py
+    9  python teachers.py
+   10  python teachers.py
+   11  python teachers.py
+   12  python teachers.py
+   13  python teachers.py
+   14  python teachers.py
+   15  python teachers.py
+   16  python teachers.py
+   17  python teachers.py
+   18  python teachers.py
+   19  print (teachers.py)
+   20  python
+   21  python teachers.py
+   22  python
+   23  ls -l ~
+   24  pwd
+   25  cd Documents
+   26  man ls
+   27  python
+   28  python
+   29  git config
+   30  git --version
+   31  git init my_first_respository
+   32  ls
+   33  cd my_first_respository/
+   34  ls
+   35  ls -a
+   36  cd -
+   37  ls
+   38  mkdir my_project/
+   39  cd my_project/
+   40  git init
+   41  ls -a
+   42  cd ..
+   43  rm my_project/
+   44  rm -r my_project/
+   45  ls
+   46  git init my_really_cool_project
+   47  cd my_really_cool_project/
+   48  nano README
+   49  ls
+   50  git add README
+   51  ls
+   52  git commit
+   53  ls
+   54  cd my_really_cool_project/
+   55  ls
+   56  git commit
+   57  ls
+   58  nano git commit
+   59  clear
+   60  ls
+   61  git log
+   62  cd ..
+   63  ls
+   64  cd my_really_cool_project/
+   65  ls
+   66  rm README
+   67  ls
+   68  cd ..
+   69  pwd
+   70  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin
+   71  ls
+   72  cd
+   73  pwd
+   74  ls
+   75  cd documents
+   76  cd
+   77  cd /
+   78  pwd
+   79  ls
+   80  ls -t
+   81  ls -l
+   82  cd ls -lt
+   83  ls -lt
+   84  clear
+   85  ls -r
+   86  ls -rt
+   87  ls -lrt
+   88  type ls
+   89  man ls
+   90  man ls
+   91  man ls
+   92  man ls
+   93  ls -u
+   94  ls-t
+   95  ls -t
+   96  q
+   97  man ls
+   98  man ls
+   99  ls -s
+  100  man ls
+  101  c
+  102  cd
+  103  pwd
+  104  clear
+  105  ls
+  106  ls -l
+  107  cd Documents/
+  108  pwd
+  109  ls
+  110  cd ..
+  111  ls
+  112  clear
+  113  ls
+  114  cd Applications
+  115  ls
+  116  cd ..
+  117  cd Public/
+  118  ls
+  119  cd ..
+  120  cd music
+  121  ls
+  122  cd iTunes
+  123  ls
+  124  cd Album\ Artwork/
+  125  ls
+  126  cd
+  127  cd Album\ Artwork/
+  128  cd Music/iTunes Album\ Artwork/
+  129  ls
+  130  cd Album\ Artwork/
+  131  cd ..
+  132  cd ../../
+  133  pwd
+  134  ls
+  135  cd Library/
+  136  ls
+  137  cd Safari/
+  138  ls
+  139  cd ..
+  140  cd Mail/
+  141  ls
+  142  cd V2/
+  143  ls
+  144  cd Mailboxes/
+  145  ls
+  146  cd ..
+  147  cd ..
+  148  cd ..
+  149  ls
+  150  cd FontCd Fonts
+  151  cd Fonts
+  152  ls
+  153  cd ..
+  154  cd FontCollections/
+  155  ls
+  156  cd ..
+  157  cd ..
+  158  ls
+  159  cd Pictures/
+  160  ls
+  161  cd iPhoto\ Library.photolibrary/
+  162  cd ..
+  163  cd ..
+  164  cd Library/
+  165  ls
+  166  cd Accounts/
+  167  ls
+  168  cd ..
+  169  cd Spelling/
+  170  ls
+  171  cd ..
+  172  cd Voices/
+  173  ls
+  174  cd ..
+  175  cd Google/
+  176  ls
+  177  cd ..
+  178  cd Preferences
+  179  ls
+  180  cd ..
+  181  ls
+  182  cd Cookies/
+  183  ls
+  184  cd ..
+  185  cd iTu
+  186  cd iTunes/
+  187  ls
+  188  cd iPhone\ Software\ Updates/
+  189  ls
+  190  ls
+  191  cd ..
+  192  cd ..
+  193  cd iTunes:ls
+  194  cd iTunes;ls
+  195  clear
+  196  cd
+  197  cd ..
+  198  cd ..
+  199  ls ..
+  200  ls
+  201  cd Users/
+  202  ls ~
+  203  ls /
+  204  ls/Applications
+  205  ls /Applications/
+  206  clear
+  207  ls -l ls \ -l
+  208  ls \ -l
+  209  ls -l 
+  210  ls -l /
+  211  ls ..
+  212  ls .
+  213  ls ..
+  214  ls henryhowes/
+  215  ls ...
+  216  cd
+  217  clear
+  218  ls
+  219  rm -r my_first_respository/
+  220  ls
+  221  rm my_really_cool_project/
+  222  ls
+  223  rm -r  my_really_cool_project/
+  224  history
+  225  clear
+  226  ls
+  227  rm -r my_really_cool_project/
+  228  man rm
+  229  history | less
+  230  history | less
+  231  cd
+  232  history > moving_around.txt
+    1  python
+    2  python
+    3  sudo killall coreaudiod
+    4  sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`
+    5  python
+    6  python
+    7  cd desktop
+    8  python teachers.py
+    9  python teachers.py
+   10  python teachers.py
+   11  python teachers.py
+   12  python teachers.py
+   13  python teachers.py
+   14  python teachers.py
+   15  python teachers.py
+   16  python teachers.py
+   17  python teachers.py
+   18  python teachers.py
+   19  print (teachers.py)
+   20  python
+   21  python teachers.py
+   22  python
+   23  ls -l ~
+   24  pwd
+   25  cd Documents
+   26  man ls
+   27  python
+   28  python
+   29  git config
+   30  git --version
+   31  git init my_first_respository
+   32  ls
+   33  cd my_first_respository/
+   34  ls
+   35  ls -a
+   36  cd -
+   37  ls
+   38  mkdir my_project/
+   39  cd my_project/
+   40  git init
+   41  ls -a
+   42  cd ..
+   43  rm my_project/
+   44  rm -r my_project/
+   45  ls
+   46  git init my_really_cool_project
+   47  cd my_really_cool_project/
+   48  nano README
+   49  ls
+   50  git add README
+   51  ls
+   52  git commit
+   53  ls
+   54  cd my_really_cool_project/
+   55  ls
+   56  git commit
+   57  ls
+   58  nano git commit
+   59  clear
+   60  ls
+   61  git log
+   62  cd ..
+   63  ls
+   64  cd my_really_cool_project/
+   65  ls
+   66  rm README
+   67  ls
+   68  cd ..
+   69  pwd
+   70  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin
+   71  ls
+   72  cd
+   73  pwd
+   74  ls
+   75  cd documents
+   76  cd
+   77  cd /
+   78  pwd
+   79  ls
+   80  ls -t
+   81  ls -l
+   82  cd ls -lt
+   83  ls -lt
+   84  clear
+   85  ls -r
+   86  ls -rt
+   87  ls -lrt
+   88  type ls
+   89  man ls
+   90  man ls
+   91  man ls
+   92  man ls
+   93  ls -u
+   94  ls-t
+   95  ls -t
+   96  q
+   97  man ls
+   98  man ls
+   99  ls -s
+  100  man ls
+  101  c
+  102  cd
+  103  pwd
+  104  clear
+  105  ls
+  106  ls -l
+  107  cd Documents/
+  108  pwd
+  109  ls
+  110  cd ..
+  111  ls
+  112  clear
+  113  ls
+  114  cd Applications
+  115  ls
+  116  cd ..
+  117  cd Public/
+  118  ls
+  119  cd ..
+  120  cd music
+  121  ls
+  122  cd iTunes
+  123  ls
+  124  cd Album\ Artwork/
+  125  ls
+  126  cd
+  127  cd Album\ Artwork/
+  128  cd Music/iTunes Album\ Artwork/
+  129  ls
+  130  cd Album\ Artwork/
+  131  cd ..
+  132  cd ../../
+  133  pwd
+  134  ls
+  135  cd Library/
+  136  ls
+  137  cd Safari/
+  138  ls
+  139  cd ..
+  140  cd Mail/
+  141  ls
+  142  cd V2/
+  143  ls
+  144  cd Mailboxes/
+  145  ls
+  146  cd ..
+  147  cd ..
+  148  cd ..
+  149  ls
+  150  cd FontCd Fonts
+  151  cd Fonts
+  152  ls
+  153  cd ..
+  154  cd FontCollections/
+  155  ls
+  156  cd ..
+  157  cd ..
+  158  ls
+  159  cd Pictures/
+  160  ls
+  161  cd iPhoto\ Library.photolibrary/
+  162  cd ..
+  163  cd ..
+  164  cd Library/
+  165  ls
+  166  cd Accounts/
+  167  ls
+  168  cd ..
+  169  cd Spelling/
+  170  ls
+  171  cd ..
+  172  cd Voices/
+  173  ls
+  174  cd ..
+  175  cd Google/
+  176  ls
+  177  cd ..
+  178  cd Preferences
+  179  ls
+  180  cd ..
+  181  ls
+  182  cd Cookies/
+  183  ls
+  184  cd ..
+  185  cd iTu
+  186  cd iTunes/
+  187  ls
+  188  cd iPhone\ Software\ Updates/
+  189  ls
+  190  ls
+  191  cd ..
+  192  cd ..
+  193  cd iTunes:ls
+  194  cd iTunes;ls
+  195  clear
+  196  cd
+  197  cd ..
+  198  cd ..
+  199  ls ..
+  200  ls
+  201  cd Users/
+  202  ls ~
+  203  ls /
+  204  ls/Applications
+  205  ls /Applications/
+  206  clear
+  207  ls -l ls \ -l
+  208  ls \ -l
+  209  ls -l 
+  210  ls -l /
+  211  ls ..
+  212  ls .
+  213  ls ..
+  214  ls henryhowes/
+  215  ls ...
+  216  cd
+  217  clear
+  218  ls
+  219  rm -r my_first_respository/
+  220  ls
+  221  rm my_really_cool_project/
+  222  ls
+  223  rm -r  my_really_cool_project/
+  224  history
+  225  clear
+  226  ls
+  227  rm -r my_really_cool_project/
+  228  man rm
+  229  history | less
+  230  history | less
+  231  cd
+  232  history > moving_around.txt
+  233  ls
+  234  nano moving_around.txt
+  235  less moving_around.txt 
+  236  subl moving_around.txt 
+  237  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  238  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /user/local/bin/subl
+  239  cd /
+  240  ls
+  241  cd usr
+  242  ls
+  243  cd bin
+  244  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /user/bin/subl
+  245  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+  246  cd
+  247  ls
+  248  ls
+  249  sudo  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+  250  ls
+  251* 
+  252  sudo  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+  253  subl
+  254  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  255  ls
+  256  mkdir bin
+  257  ls
+  258  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  259  subl
+  260  subl moving_around.txt
+  261  ls
+  262  cd bin
+  263  ls
+  264  rm subl
+  265  cd ..
+  266  rm -r bin
+  267  ls
+  268  clear
+  269  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  270  sudo  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+  271  ls 
+  272  mkdir bin
+  273  ls
+  274  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  275  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  276  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  277  subl moving_around.txt 
+  278  cd /
+  279  ls
+  280  cd
+  281  cd /
+  282  ls
+  283  cd bin
+  284  ls
+  285  cd ..
+  286  clear
+  287  cd
+  288  mkdir gue_workshop
+  289  ls
+  290  mv moving_around.txt gue_workshop
+  291  ls
+  292  cd gue_workshop/
+  293  ls
+  294  mv moving_around.txt unix_notes.txt
+  295  ls
+  296  mv foo.txt bar.txt
+  297  man mv
+  298  history >> unix_notes.txt
