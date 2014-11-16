@@ -1,0 +1,13 @@
+Git Commands
+	-git add <filename> - adds the given file to the staging area
+	-git commit -m "commit message here" - commits staged files to the repo
+
+Master
+  -Refers to first branch in a repository
+Head
+  -Refers to current branch
+Git Branch <new branch name>
+  -Adds a new branch, doesn't automatically checkout that new branch
+  -Git branch without argument lists all branches, asterisk indicates active branch
+
+Use git push -u origin master to push changes to the repository
